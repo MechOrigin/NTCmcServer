@@ -1,0 +1,439 @@
+{
+  "iron_ore": {
+    "type": "curve",
+    "ore": [
+      {
+        "block": "minecraft:iron_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_iron_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 1,
+    "rarity": 5,
+    "min_y": 0,
+    "max_y": 64,
+    "density": 300,
+    "angle": 45,
+    "radius": 3
+  },
+  "lapis_ore": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "minecraft:lapis_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_lapis_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "clusters": 6,
+    "count": 1,
+    "rarity": 10,
+    "min_y": 8,
+    "max_y": 32,
+    "density": 50,
+    "vertical_size": 3,
+    "horizontal_size": 8
+  },
+  "redstone_ore": {
+    "type": "sphere",
+    "ore": [
+      {
+        "block": "minecraft:redstone_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_redstone_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 12,
+    "min_y": 0,
+    "max_y": 16,
+    "density": 80,
+    "vertical_size": 3,
+    "horizontal_size": 6
+  },
+  "gold_ore": {
+    "type": "cone",
+    "ore": [
+      {
+        "block": "minecraft:gold_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_gold_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 20,
+    "min_y": 0,
+    "max_y": 32,
+    "density": 300,
+    "vertical_size": 8,
+    "horizontal_size": 4,
+    "inverted": false,
+    "shape": 0.5
+  },
+  "coal_ore_diamonds": {
+    "type": "sphere",
+    "ore": [
+      {
+        "ore": "oreCoal",
+        "weight": 40
+      },
+      {
+        "block": "minecraft:diamond_ore",
+        "weight": 2
+      },
+      {
+        "block": "densemetals:dense_diamond_ore",
+        "weight": 1
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 5,
+    "min_y": 8,
+    "max_y": 16,
+    "density": 360,
+    "vertical_size": 5,
+    "horizontal_size": 8
+  },
+  "coal_ore": {
+    "type": "sphere",
+    "ore": [
+      {
+        "block": "minecraft:coal_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_coal_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 1,
+    "rarity": 5,
+    "min_y": 16,
+    "max_y": 256,
+    "density": 360,
+    "vertical_size": 5,
+    "horizontal_size": 8
+  },
+  "emerald_ore": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "minecraft:emerald_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_emerald_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 40,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 40,
+    "density": 30,
+    "vertical_size": 4,
+    "horizontal_size": 6,
+    "biomes": [
+      "mountain",
+      "cold",
+      "extreme_hills",
+      "extreme_hills_with_trees",
+      "mutated_extreme_hills",
+      "mutated_extreme_hills_with_trees"
+    ]
+  },
+  "gemstone_cluster": {
+    "type": "cluster",
+    "clusters": 3,
+    "ore": [
+      {
+        "block": "minecraft:emerald_ore"
+      },
+      {
+        "block": "minecraft:diamond_ore"
+      },
+      {
+        "block": "densemetals:dense_emerald_ore",
+        "weight": 2
+      },
+      {
+        "block": "densemetals:dense_diamond_ore",
+        "weight": 1
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 6,
+    "rarity": 30,
+    "min_y": 1,
+    "max_y": 32,
+    "density": 500,
+    "vertical_size": 1,
+    "horizontal_size": 3,
+    "conditions": [
+      {
+        "type": "touching",
+        "block": "minecraft:lava",
+        "min": 2
+      }
+    ]
+  },
+  "copper_ore": {
+    "type": "sphere",
+    "ore": [
+      {
+        "block": "basemetals:copper_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_copper_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 3,
+    "rarity": 5,
+    "min_y": 0,
+    "max_y": 256,
+    "density": 360,
+    "vertical_size": 5,
+    "horizontal_size": 8
+  },
+  "silver_ore": {
+    "type": "sphere",
+    "ore": [
+      {
+        "block": "basemetals:silver_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_silver_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 1,
+    "rarity": 7,
+    "min_y": 0,
+    "max_y": 32,
+    "density": 50,
+    "vertical_size": 2,
+    "horizontal_size": 4
+  },
+  "tin_ore": {
+    "type": "sphere",
+    "ore": [
+      {
+        "block": "basemetals:tin_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_tin_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 2,
+    "rarity": 4,
+    "min_y": 0,
+    "max_y": 128,
+    "density": 50,
+    "vertical_size": 4,
+    "horizontal_size": 4
+  },
+  "lead_ore": {
+    "type": "cone",
+    "ore": [
+      {
+        "block": "basemetals:lead_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_lead_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 1,
+    "rarity": 4,
+    "min_y": 0,
+    "max_y": 64,
+    "density": 100,
+    "vertical_size": 6,
+    "horizontal_size": 4
+  },
+  "zinc_ore": {
+    "type": "sphere",
+    "ore": [
+      {
+        "block": "basemetals:zinc_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_zinc_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 2,
+    "rarity": 4,
+    "min_y": 0,
+    "max_y": 96,
+    "density": 100,
+    "vertical_size": 4,
+    "horizontal_size": 4
+  },
+  "mercury_ore": {
+    "type": "pipe",
+    "ore": [
+      {
+        "block": "basemetals:mercury_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_mercury_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 1,
+    "rarity": 15,
+    "min_y": 0,
+    "max_y": 32,
+    "density": 300,
+    "vertical_size": 1,
+    "horizontal_size": 5
+  },
+  "nickel_ore": {
+    "type": "sphere",
+    "ore": [
+      {
+        "block": "basemetals:nickel_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_nickel_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 2,
+    "rarity": 4,
+    "min_y": 0,
+    "max_y": 96,
+    "density": 100,
+    "vertical_size": 4,
+    "horizontal_size": 4
+  },
+  "platinum_ore": {
+    "type": "cone",
+    "ore": [
+      {
+        "block": "basemetals:platinum_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_platinum_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "count": 1,
+    "rarity": 30,
+    "min_y": 0,
+    "max_y": 32,
+    "density": 100,
+    "vertical_size": 5,
+    "horizontal_size": 4,
+    "inverted": false,
+    "shape": 1.0
+  },
+  "platinum_ore_mtn_cluster": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "basemetals:platinum_ore",
+        "weight": 40
+      },
+      {
+        "block": "densemetals:dense_platinum_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 40,
+    "count": 1,
+    "min_y": 0,
+    "max_y": 256,
+    "density": 30,
+    "vertical_size": 4,
+    "horizontal_size": 6,
+    "biomes": [
+      "mountain",
+      "cold",
+      "extreme_hills",
+      "extreme_hills_with_trees",
+      "mutated_extreme_hills",
+      "mutated_extreme_hills_with_trees"
+    ]
+  },
+  "aluminum_ore": {
+    "type": "sphere",
+    "ore": "modernmetals:aluminum_ore",
+    "stone": "minecraft:stone",
+    "count": 3,
+    "rarity": 4,
+    "min_y": 0,
+    "max_y": 96,
+    "density": 100,
+    "vertical_size": 4,
+    "horizontal_size": 4
+  },
+  "uranium_ore": {
+    "type": "sphere",
+    "ore": "modernmetals:uranium_ore",
+    "stone": "minecraft:stone",
+    "count": 2,
+    "rarity": 15,
+    "min_y": 0,
+    "max_y": 32,
+    "density": 100,
+    "vertical_size": 2,
+    "horizontal_size": 2
+  },
+  "uranium_ore_mtn_cluster": {
+    "type": "cluster",
+    "ore": "modernmetals:uranium_ore",
+    "stone": "minecraft:stone",
+    "rarity": 25,
+    "count": 2,
+    "min_y": 0,
+    "max_y": 256,
+    "density": 30,
+    "vertical_size": 4,
+    "horizontal_size": 6,
+    "biomes": [
+      "mountain",
+      "cold",
+      "extreme_hills",
+      "extreme_hills_with_trees",
+      "mutated_extreme_hills",
+      "mutated_extreme_hills_with_trees"
+    ]
+  }
+}

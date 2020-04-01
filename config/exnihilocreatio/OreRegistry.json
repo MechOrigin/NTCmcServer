@@ -1,0 +1,62 @@
+[
+  {
+    "name": "gold",
+    "color": "ffff00",
+    "result": "minecraft:gold_ingot:-1"
+  },
+  {
+    "name": "iron",
+    "color": "bf8040",
+    "result": "minecraft:iron_ingot:-1"
+  },
+  {
+    "name": "aluminium",
+    "color": "bfbfbf",
+    "result": "thermalfoundation:material:132"
+  },
+  {
+    "name": "copper",
+    "color": "ff9933",
+    "result": "thermalfoundation:material:128"
+  },
+  {
+    "name": "lead",
+    "color": "330066",
+    "result": "thermalfoundation:material:131"
+  },
+  {
+    "name": "nickel",
+    "color": "ffffcc",
+    "result": "thermalfoundation:material:133"
+  },
+  {
+    "name": "silver",
+    "color": "f2f2f2",
+    "result": "thermalfoundation:material:130"
+  },
+  {
+    "name": "tin",
+    "color": "e6fff2",
+    "result": "thermalfoundation:material:129"
+  },
+  {
+    "name": "tungsten",
+    "color": "1c1c1c",
+    "result": "modernmetals:tungsten_ingot:-1"
+  },
+  {
+    "name": "uranium",
+    "color": "4e5b43",
+    "result": "modernmetals:uranium_ingot:-1"
+  },
+  {
+    "name": "zinc",
+    "color": "a59c74",
+    "result": "basemetals:zinc_ingot:-1"
+  },
+  {
+    "name": "platinum",
+    "color": "d7dfe7",
+    "result": "thermalfoundation:material:134"
+  }
+]

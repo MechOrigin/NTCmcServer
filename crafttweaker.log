@@ -1,0 +1,268 @@
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: minersring.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: PhilosophersStone.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: removeRecipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 5ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: minersring.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: PhilosophersStone.zs}
+[INITIALIZATION][SERVER][ERROR] PhilosophersStone.zs:3: Could not resolve <extrautils2 : compressedcobblestone : 5>
+[INITIALIZATION][SERVER][ERROR] PhilosophersStone.zs:3: Could not resolve <extrautils2 : compressednetherrack : 5>
+[INITIALIZATION][SERVER][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_nameplaceholder for Philosopher's Stone
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: removeRecipes.zs}
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:6: Could not resolve <basemetals : platinum_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:7: Could not resolve <basemetals : platinum_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:8: Could not resolve <basemetals : platinum_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:9: Could not resolve <basemetals : platinum_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:10: Could not resolve <basemetals : platinum_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:11: Could not resolve <basemetals : platinum_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:12: Could not resolve <basemetals : platinum_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:13: Could not resolve <basemetals : platinum_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:14: Could not resolve <basemetals : platinum_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:16: Could not resolve <basemetals : platinum_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:18: Could not resolve <basemetals : platinum_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:23: Could not resolve <basemetals : copper_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:24: Could not resolve <basemetals : copper_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:25: Could not resolve <basemetals : copper_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:26: Could not resolve <basemetals : copper_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:27: Could not resolve <basemetals : copper_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:28: Could not resolve <basemetals : copper_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:29: Could not resolve <basemetals : copper_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:30: Could not resolve <basemetals : copper_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:31: Could not resolve <basemetals : copper_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:40: Could not resolve <basemetals : tin_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:41: Could not resolve <basemetals : tin_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:42: Could not resolve <basemetals : tin_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:43: Could not resolve <basemetals : tin_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:44: Could not resolve <basemetals : tin_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:45: Could not resolve <basemetals : tin_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:46: Could not resolve <basemetals : tin_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:47: Could not resolve <basemetals : tin_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:48: Could not resolve <basemetals : tin_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:57: Could not resolve <basemetals : lead_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:58: Could not resolve <basemetals : lead_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:59: Could not resolve <basemetals : lead_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:60: Could not resolve <basemetals : lead_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:61: Could not resolve <basemetals : lead_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:62: Could not resolve <basemetals : lead_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:63: Could not resolve <basemetals : lead_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:64: Could not resolve <basemetals : lead_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:65: Could not resolve <basemetals : lead_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:86: Could not resolve <modernmetals : aluminum_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:87: Could not resolve <modernmetals : aluminum_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:88: Could not resolve <modernmetals : aluminum_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:89: Could not resolve <modernmetals : aluminum_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:90: Could not resolve <modernmetals : aluminum_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:91: Could not resolve <modernmetals : aluminum_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:92: Could not resolve <modernmetals : aluminum_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:93: Could not resolve <modernmetals : aluminum_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:94: Could not resolve <modernmetals : aluminum_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:96: Could not resolve <modernmetals : aluminum_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:98: Could not resolve <modernmetals : aluminum_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:103: Could not resolve <basemetals : nickel_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:104: Could not resolve <basemetals : nickel_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:105: Could not resolve <basemetals : nickel_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:106: Could not resolve <basemetals : nickel_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:107: Could not resolve <basemetals : nickel_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:108: Could not resolve <basemetals : nickel_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:109: Could not resolve <basemetals : nickel_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:110: Could not resolve <basemetals : nickel_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:111: Could not resolve <basemetals : nickel_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:113: Could not resolve <basemetals : nickel_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:115: Could not resolve <basemetals : nickel_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:120: Could not resolve <modernmetals : iridium_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:121: Could not resolve <modernmetals : iridium_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:122: Could not resolve <modernmetals : iridium_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:123: Could not resolve <modernmetals : iridium_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:124: Could not resolve <modernmetals : iridium_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:125: Could not resolve <modernmetals : iridium_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:126: Could not resolve <modernmetals : iridium_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:127: Could not resolve <modernmetals : iridium_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:128: Could not resolve <modernmetals : iridium_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:130: Could not resolve <modernmetals : iridium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:132: Could not resolve <modernmetals : iridium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:139: Could not resolve <basemetals : bronze_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:140: Could not resolve <basemetals : bronze_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:141: Could not resolve <basemetals : bronze_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:142: Could not resolve <basemetals : bronze_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:143: Could not resolve <basemetals : bronze_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:144: Could not resolve <basemetals : bronze_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:145: Could not resolve <basemetals : bronze_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:146: Could not resolve <basemetals : bronze_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:147: Could not resolve <basemetals : bronze_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:148: Could not resolve <basemetals : bronze_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:149: Could not resolve <basemetals : bronze_blend>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:150: Could not resolve <basemetals : bronze_smallblend>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:151: Could not resolve <basemetals : bronze_block>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:152: Could not resolve <basemetals : bronze_nugget>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:155: Could not resolve <basemetals : steel_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:156: Could not resolve <basemetals : steel_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:157: Could not resolve <basemetals : steel_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:158: Could not resolve <basemetals : steel_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:159: Could not resolve <basemetals : steel_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:160: Could not resolve <basemetals : steel_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:161: Could not resolve <basemetals : steel_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:162: Could not resolve <basemetals : steel_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:163: Could not resolve <basemetals : steel_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:171: Could not resolve <basemetals : electrum_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:172: Could not resolve <basemetals : electrum_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:173: Could not resolve <basemetals : electrum_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:174: Could not resolve <basemetals : electrum_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:175: Could not resolve <basemetals : electrum_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:176: Could not resolve <basemetals : electrum_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:177: Could not resolve <basemetals : electrum_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:178: Could not resolve <basemetals : electrum_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:179: Could not resolve <basemetals : electrum_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:186: Could not resolve <basemetals : invar_axe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:187: Could not resolve <basemetals : invar_pickaxe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:188: Could not resolve <basemetals : invar_shovel>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:189: Could not resolve <basemetals : invar_sword>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:190: Could not resolve <basemetals : invar_hoe>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:191: Could not resolve <basemetals : invar_chestplate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:192: Could not resolve <basemetals : invar_helmet>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:193: Could not resolve <basemetals : invar_leggings>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:194: Could not resolve <basemetals : invar_boots>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:202: Could not resolve <modernmetals : beryllium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:203: Could not resolve <modernmetals : beryllium_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:204: Could not resolve <modernmetals : beryllium_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:205: Could not resolve <modernmetals : beryllium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:207: Could not resolve <modernmetals : boron_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:208: Could not resolve <modernmetals : boron_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:209: Could not resolve <modernmetals : boron_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:210: Could not resolve <modernmetals : boron_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:212: Could not resolve <modernmetals : chromium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:213: Could not resolve <modernmetals : chromium_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:214: Could not resolve <modernmetals : chromium_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:215: Could not resolve <modernmetals : chromium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:217: Could not resolve <modernmetals : chromium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:218: Could not resolve <modernmetals : chromium_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:219: Could not resolve <modernmetals : chromium_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:220: Could not resolve <modernmetals : chromium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:222: Could not resolve <modernmetals : magnesium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:223: Could not resolve <modernmetals : magnesium_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:224: Could not resolve <modernmetals : magnesium_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:225: Could not resolve <modernmetals : magnesium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:227: Could not resolve <modernmetals : manganese_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:228: Could not resolve <modernmetals : manganese_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:229: Could not resolve <modernmetals : manganese_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:230: Could not resolve <modernmetals : manganese_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:232: Could not resolve <modernmetals : osmium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:233: Could not resolve <modernmetals : osmium_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:235: Could not resolve <modernmetals : osmium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:237: Could not resolve <modernmetals : rutile_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:240: Could not resolve <modernmetals : rutile_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:242: Could not resolve <modernmetals : tantalum_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:243: Could not resolve <modernmetals : tantalum_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:244: Could not resolve <modernmetals : tantalum_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:245: Could not resolve <modernmetals : tantalum_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:247: Could not resolve <modernmetals : thorium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:248: Could not resolve <modernmetals : thorium_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:249: Could not resolve <modernmetals : thorium_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:250: Could not resolve <modernmetals : thorium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:252: Could not resolve <modernmetals : tungsten_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:253: Could not resolve <modernmetals : tungsten_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:254: Could not resolve <modernmetals : tungsten_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:255: Could not resolve <modernmetals : tungsten_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:257: Could not resolve <modernmetals : zirconium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:258: Could not resolve <modernmetals : zirconium_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:259: Could not resolve <modernmetals : zirconium_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:260: Could not resolve <modernmetals : zirconium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:262: Could not resolve <modernmetals : cadmium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:263: Could not resolve <modernmetals : cadmium_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:264: Could not resolve <modernmetals : cadmium_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:265: Could not resolve <modernmetals : cadmium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:267: Could not resolve <modernmetals : plutonium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:268: Could not resolve <modernmetals : plutonium_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:269: Could not resolve <modernmetals : plutonium_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:270: Could not resolve <modernmetals : plutonium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:272: Could not resolve <modernmetals : uranium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:273: Could not resolve <modernmetals : uranium_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:274: Could not resolve <modernmetals : uranium_crystal>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:275: Could not resolve <modernmetals : uranium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:278: Could not resolve <modernmetals : aluminumbrass_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:279: Could not resolve <modernmetals : aluminumbrass_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:280: Could not resolve <modernmetals : aluminumbrass_smallblend>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:281: Could not resolve <modernmetals : aluminumbrass_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:283: Could not resolve <modernmetals : galvanizedsteel_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:286: Could not resolve <modernmetals : galvanizedsteel_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:288: Could not resolve <modernmetals : galvanizedsteel_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:291: Could not resolve <modernmetals : galvanizedsteel_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:293: Could not resolve <modernmetals : nichrome_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:294: Could not resolve <modernmetals : nichrome_powder>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:295: Could not resolve <modernmetals : nichrome_smallblend>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:296: Could not resolve <modernmetals : nichrome_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:298: Could not resolve <modernmetals : stainlesssteel_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:301: Could not resolve <modernmetals : stainlesssteel_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:303: Could not resolve <modernmetals : galvanizedsteel_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:306: Could not resolve <modernmetals : galvanizedsteel_dense_plate>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:308: Could not resolve <modernmetals : titanium_casing>
+[INITIALIZATION][SERVER][ERROR] removeRecipes.zs:311: Could not resolve <modernmetals : titanium_dense_plate>
+[INITIALIZATION][SERVER][ERROR] Cannot remove recipes for a null item!
+[INITIALIZATION][SERVER][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: removeRecipes.zs}: null
+java.lang.NullPointerException
+	at crafttweaker.mods.jei.JEI.removeAndHide(JEI.java:73)
+	at RemoveRecipes.__script__(removeRecipes.zs:318)
+	at __ZenMain__.run(RemoveRecipes)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:69)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_610_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:817)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:624)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742)
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Unknown Source)
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 333ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][ERROR] Error while applying actions
+java.lang.NullPointerException
+	at crafttweaker.mc1120.recipes.MCRecipeManager$ActionRemoveRecipesNoIngredients.matches(MCRecipeManager.java:632)
+	at crafttweaker.mc1120.recipes.MCRecipeManager$ActionRemoveRecipesNoIngredients.apply(MCRecipeManager.java:620)
+	at crafttweaker.runtime.CrTTweaker.apply(CrTTweaker.java:61)
+	at crafttweaker.CraftTweakerAPI.apply(CraftTweakerAPI.java:146)
+	at crafttweaker.mc1120.CraftTweaker.onPostInit(CraftTweaker.java:134)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:624)
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:749)
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Unknown Source)

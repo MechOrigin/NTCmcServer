@@ -1,0 +1,11 @@
+{
+   "default": [ { "name": "minecraft:stone" },
+	            { "name": "minecraft:andesite" },
+				{ "name": "minecraft:diorite" },
+				{ "name": "minecraft:granite" },
+				{ "name": "minecraft:netherrack" },
+				{ "name": "minecraft:end_stone" },
+				{ "name": "undergroundbiomes:igneous_stone" },
+				{ "name": "undergroundbiomes:metamorphic_stone" },
+				{ "name": "undergroundbiomes:sedimentary_stone" } ]
+}

@@ -1,0 +1,12 @@
+{
+  "inventory": {
+    "0:5": "minecraft:cooked_rabbit,6",
+    "0:3": "minecraft:carrot,6",
+    "0:7": "thermalexpansion:satchel,1,0,{Filter:{Items:[],Flags:0b},Mode:0,Inventory:{},Accessible:1b}",
+    "0:6": "minecraft:bowl,6",
+    "0:4": "minecraft:red_mushroom,6",
+    "0:2": "minecraft:baked_potato,6",
+    "0:0": "ftbquests:book",
+    "0:1": "toughasnails:canteen,1,1"
+  }
+}
